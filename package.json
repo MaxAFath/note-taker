@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "experss": "^0.0.1-security",
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxAFath/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MaxAFath/note-taker/issues"
+  },
+  "homepage": "https://github.com/MaxAFath/note-taker#readme"
 }
